@@ -1,0 +1,3 @@
+[submodule "DokaEngine/vendor/spdlog"]
+	path = DokaEngine/vendor/spdlog
+	url = https://github.com/gabime/spdlog.git
